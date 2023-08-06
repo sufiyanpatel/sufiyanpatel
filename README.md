@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sufiyan Patel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sufiyan Patel
 =====================================================================================================================================
 
 AEM Developer
 -------------
 
-I am a AEM Backend developer. However, loves to learn new technologies....
+I am an AEM Backend developer. However, loves to learn new technologies...
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sufiyanpatel1992@gmail.com](mailto:sufiyanpatel1992@gmail.com)
