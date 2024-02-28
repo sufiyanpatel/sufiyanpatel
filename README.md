@@ -8,7 +8,7 @@ I am an AEM Backend developer. However, loves to learn new technologies...
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sufiyanpatel1992@gmail.com](mailto:sufiyanpatel1992@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm keen to learn new things
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
